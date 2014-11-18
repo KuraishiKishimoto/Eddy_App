@@ -5,10 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="Eintrag">Einträge</string>
-    <string name="timtest2222">timtest</string>
     <string name="Grafik">Grafik</string>
     <string name="Einstellungen">Einstellungen</string>
     <string name="Button_AddNew">Neuer Eintrag</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="ti">timtest</string>
 </resources>
